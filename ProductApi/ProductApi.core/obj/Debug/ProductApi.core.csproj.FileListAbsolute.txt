@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\ProductApi.core\ProductApi.core\bin\Debug\ProductApi.core.dll
+C:\Users\admin\source\repos\ProductApi.core\ProductApi.core\bin\Debug\ProductApi.core.pdb
+C:\Users\admin\source\repos\ProductApi.core\ProductApi.core\obj\Debug\ProductApi.core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProductApi.core\ProductApi.core\obj\Debug\ProductApi.core.dll
+C:\Users\admin\source\repos\ProductApi.core\ProductApi.core\obj\Debug\ProductApi.core.pdb
+C:\Users\admin\source\repos\ProductApi.core\ProductApi.core\obj\Debug\ProductApi.core.csprojAssemblyReference.cache
